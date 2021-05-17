@@ -1,0 +1,32 @@
+body {
+    font-family: 'Mulish', sans-serif;
+    background-color: rgb(46, 59, 71);
+    color: whitesmoke;
+    margin: 0
+}
+
+#home  {
+    margin-top: 20vh;
+    margin-bottom: 20vh;
+}
+
+
+#footer  {
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+}
+
+.btext {
+    text-align: center;
+}
+
+.container {
+    background-color: rgb(25, 30, 36);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.item {
+    margin: 50px 50px 50px 50px;
+}
